@@ -1,2 +1,2 @@
 # online_chat
-online chat project
+An online chat app with a distributed architecture and end-to-end encryption.
